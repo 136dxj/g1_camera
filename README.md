@@ -20,11 +20,8 @@ Simple camera streaming module for transmitting video over TCP/UDP networks.
 ## Installation
 
 ```bash
-# Install dependencies
-pip install opencv-python numpy
-
-# Or with conda
-conda install opencv numpy
+# Create a new python virtual env
+conda env create -f environment.yml
 ```
 
 ## Quick Start
