@@ -1,6 +1,6 @@
 ## Acknowledgments
 
-This project was developed in collaboration with **GLM-4.6V** (智谱AI的视觉语言模型).
+This project was developed in collaboration with **GLM-4.6V**.
 
 ---
 
